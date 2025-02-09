@@ -163,3 +163,23 @@ Contributions are welcome! Feel free to fork this repository, create a branch, a
 ## **License**
 
 This project is licensed under the MIT License.
+
+## **Screenshots**
+
+### **Home Page**
+
+![Home Page](./screenshots/home.png)
+
+### **Event Details**
+
+![login Details](./screenshots/login.png)
+
+### **User Registration**
+
+![User Registration](./screenshots/signup.png)
+
+### **Event Creation**
+
+![Event Creation](./screenshots/dashboard.png)
+
+---
