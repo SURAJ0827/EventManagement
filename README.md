@@ -170,7 +170,7 @@ This project is licensed under the MIT License.
 
 ![Home Page](./screenshots/home.png)
 
-### **Event Details**
+### **Login Details**
 
 ![login Details](./screenshots/login.png)
 
@@ -178,7 +178,7 @@ This project is licensed under the MIT License.
 
 ![User Registration](./screenshots/signup.png)
 
-### **Event Creation**
+### **Event Creation, view, update and delete also atenddee**
 
 ![Event Creation](./screenshots/dashboard.png)
 
